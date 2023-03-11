@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: border-box;
+}
+
+body{
+    background-color: bisque;
+    width: auto;
+    height: auto;
+}
+h1{
+    width: 1000px;
+    font-style: 30px;
+    margin: 300px 300px 50px 500px;
+    color: green;
+}
+
+.button{
+    width: 300px;
+    height: 30px;
+    background: border-box;
+    border-radius: 50%;
+    border-color: brown;
+    background-color: brown;
+    color: bisque;
+    margin: 0 300px 300px 450px;
+}
